@@ -1,1 +1,1 @@
-# ToDo app with FastAPI + MongoDB
+# Simple CRUD app with FastAPI + MongoDB
